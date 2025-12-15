@@ -2,7 +2,8 @@
 
 ## Project Overview
 The SBCA Clinic Management System is a web-based application for managing **student health records and vaccinations** at San Beda College Alabang (SBCA).  
-This project was developed as an academic requirement to improve school clinic processes and streamline record management.
+This project was developed as an academic requirement to improve school clinic processes and streamline record management.  
+**Note:** This project was used for academic purposes only and does **not contain any real student data**. No privacy was invaded.
 
 ## Objectives
 - Digitize student health records for easier access and tracking.
@@ -40,3 +41,7 @@ This project was developed as an academic requirement to improve school clinic p
 - Built the **Vaccinations** module to manage student vaccination data.  
 - Implemented secure PHP sessions for admin access control.  
 - Designed intuitive UI and structured dashboards for admin efficiency.
+
+## Live Website
+The SBCA Clinic Management System is hosted online and can be accessed here:  
+[SBCA CMS - Clinic Login](https://2022300091-bsit3b.sbca-set3y.site/SBCA_CMS/clinic_login.php)
